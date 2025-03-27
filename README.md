@@ -6,23 +6,27 @@
 <!-- 👋 자기소개 -->
 <h3 align="center">👋 About Me</h3>
 <p align="center">
-  안녕하세요! <b>기획부터 개발까지 두루 경험하며</b> 다양한 웹 서비스를 만들어가는 <code>213am</code>입니다.  
+  안녕하세요! <b>기획부터 개발까지 두루 경험하며</b> 
+  다양한 웹 서비스를 만들어가는 <code>이한샘</code>입니다.  
   사용자 경험을 중시하며, 프론트엔드 중심의 풀스택 개발 환경에 익숙합니다.  
 </p>
 
 <!-- 🔗 링크 버튼 -->
 <p align="center">
-  <a href="https://typical-crowd-69f.notion.site/1a3148c3fe7580598b8cc9da6f6792a3" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="vertical-align: middle;" />
+  <a href="https://typical-crowd-69f.notion.site/1a3148c3fe7580598b8cc9da6f6792a3">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="vertical-align: middle; margin: 0 5px;" />
   </a>
   <a href="mailto:dev.213am@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align: middle; margin: 0 5px;" />
   </a>
   <a href="https://github.com/213am">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" style="vertical-align: middle; margin: 0 5px;" />
   </a>
 </p>
 
+<p align="center">
+  <sub>링크는 새 탭에서 열도록 <kbd>Ctrl + Click</kbd> 또는 <kbd>우클릭 → 새 탭에서 열기</kbd>를 추천합니다 😄</sub>
+</p>
 
 ---
 
