@@ -16,9 +16,17 @@
   <a href="https://typical-crowd-69f.notion.site/1a3148c3fe7580598b8cc9da6f6792a3">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="vertical-align: middle; margin: 0 5px;" />
   </a>
-  <a href="mailto:dev.213am@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align: middle; margin: 0 5px;" />
-  </a>
+<a 
+  href="https://mail.google.com/mail/?view=cm&to=dev.213am@gmail.com" 
+  target="_blank" 
+  rel="noopener noreferrer"
+>
+  <img 
+    src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Gmail Badge"
+    style="vertical-align: middle; margin: 0 5px;"
+  />
+</a>
   <a href="https://github.com/213am">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" style="vertical-align: middle; margin: 0 5px;" />
   </a>
