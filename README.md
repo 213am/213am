@@ -13,7 +13,7 @@
 
 <!-- 🔗 링크 버튼 -->
 <p align="center">
-  <a href="https://typical-crowd-69f.notion.site/1a3148c3fe7580598b8cc9da6f6792a3">
+  <a href="https://typical-crowd-69f.notion.site/1ce148c3fe7580a0aef4e3bc3758acdd">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="vertical-align: middle; margin: 0 5px;" />
   </a>
 <a 
